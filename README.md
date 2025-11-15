@@ -1,4 +1,4 @@
-# Simualação e analise de de dados do IMC
+# Simualação e analise de dados do IMC
 O Projeto  consiste na simulação de dados envolvendo pesos e alturas de indivíduos, calculando o IMC (índice de Massa Corporal) e relacionando com dados simulados sobre existência de problemas cardíacos. 
 A simulação deverá contar com dados pseudoaleatórios gerados por simulação computacional e deverá haver correspondência entre problemas cardiácos com a medida do IMC. Ou seja, iremos supor que exista uma correspondência óbvia entre as medidas (modelada matematicamente por equção e coeificentes arbitrariamente definidos). Para cada sexo (sendo eles definidos de forma aleatória).
 
