@@ -9,3 +9,7 @@ Os dados serão simulados via randomização (aleatoriedade) as alturas dentro d
 - Pandas
 - Numpy
 - Sympy
+
+## Autor
+
+Lucas Lima Silva: https://www.linkedin.com/in/lucaslimaitz/
